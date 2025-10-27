@@ -1,0 +1,6 @@
+=== Log de Errores - Casos Fallidos ===
+Fecha de generacion: 2025-10-27
+=======================================
+Caso: Login fallido | Tiempo: 10 segs | Estado: FAILED
+Caso: Eliminar del carrito | Tiempo: 9 segs | Estado: FAILED
+Caso: Pago rechazado | Tiempo: 55 segs | Estado: FAILED

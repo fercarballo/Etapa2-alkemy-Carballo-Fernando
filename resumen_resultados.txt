@@ -1,0 +1,10 @@
+=== Resumen de Reporte de Automatizacion ===
+Fecha de generacion: 2025-10-27
+==========================================
+Total de pruebas ejecutadas: 10
+Pruebas exitosas (PASSED): 7
+Pruebas fallidas (FAILED): 3
+==========================================
+Tiempo de ejecucion promedio: 24,40 segs
+Tiempo de ejecucion maximo: 75 segs
+Tiempo de ejecucion minimo: 5 segs
